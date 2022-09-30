@@ -11,7 +11,7 @@
 
      }
 
- /* .bars {
+ .bars {
      height: 41rem;
      width: 5rem;
      background-color: #53c1de;
@@ -20,7 +20,7 @@
      top: -40rem;
      left: 10rem;
 
- } */
+ }
 
  .language-title {
      grid-area: top;
